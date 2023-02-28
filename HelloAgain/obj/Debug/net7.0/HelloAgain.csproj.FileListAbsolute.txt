@@ -1,0 +1,15 @@
+C:\Users\Sohail Toseef\Desktop\C#\HelloAgain\obj\Debug\net7.0\HelloAgain.csproj.AssemblyReference.cache
+C:\Users\Sohail Toseef\Desktop\C#\HelloAgain\obj\Debug\net7.0\HelloAgain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sohail Toseef\Desktop\C#\HelloAgain\obj\Debug\net7.0\HelloAgain.AssemblyInfoInputs.cache
+C:\Users\Sohail Toseef\Desktop\C#\HelloAgain\obj\Debug\net7.0\HelloAgain.AssemblyInfo.cs
+C:\Users\Sohail Toseef\Desktop\C#\HelloAgain\obj\Debug\net7.0\HelloAgain.csproj.CoreCompileInputs.cache
+C:\Users\Sohail Toseef\Desktop\C#\HelloAgain\bin\Debug\net7.0\HelloAgain.exe
+C:\Users\Sohail Toseef\Desktop\C#\HelloAgain\bin\Debug\net7.0\HelloAgain.deps.json
+C:\Users\Sohail Toseef\Desktop\C#\HelloAgain\bin\Debug\net7.0\HelloAgain.runtimeconfig.json
+C:\Users\Sohail Toseef\Desktop\C#\HelloAgain\bin\Debug\net7.0\HelloAgain.dll
+C:\Users\Sohail Toseef\Desktop\C#\HelloAgain\bin\Debug\net7.0\HelloAgain.pdb
+C:\Users\Sohail Toseef\Desktop\C#\HelloAgain\obj\Debug\net7.0\HelloAgain.dll
+C:\Users\Sohail Toseef\Desktop\C#\HelloAgain\obj\Debug\net7.0\refint\HelloAgain.dll
+C:\Users\Sohail Toseef\Desktop\C#\HelloAgain\obj\Debug\net7.0\HelloAgain.pdb
+C:\Users\Sohail Toseef\Desktop\C#\HelloAgain\obj\Debug\net7.0\HelloAgain.genruntimeconfig.cache
+C:\Users\Sohail Toseef\Desktop\C#\HelloAgain\obj\Debug\net7.0\ref\HelloAgain.dll
