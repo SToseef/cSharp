@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace floatingPoint
 {
@@ -22,7 +22,7 @@ namespace floatingPoint
             bool areEqual = fAnswer == fAnswer2; 
             Console.WriteLine($"float {fAnswer} is equal to {fAnswer2}: {areEqual}");
 
-            dAnswer = 0.09d * 100d;
+            dAnswer = 0.09f * 100d;
             double dAnswer2 = 0.09d * 99.999999999999999999999d;
             Console.WriteLine($"double answer should be {dAnswer}, but is {dAnswer2}"); 
 
@@ -35,6 +35,12 @@ namespace floatingPoint
 
             areEqual = mAnswer == mAnswer2; 
             Console.WriteLine($"decimal {mAnswer} is equal to {mAnswer2}: {areEqual}");
+
+            int one = 1; 
+            int ten = 10;
+
+            dAnswer = (double)one / (double)ten;
+            Console.WriteLine($"double answer should be 0.1, but is {fAnswer}");
 
         }
     }   
