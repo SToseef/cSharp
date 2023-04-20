@@ -1,0 +1,15 @@
+C:\Users\Sohail Toseef\Desktop\C#\FileReadWrite\bin\Debug\net7.0\FileReadWrite.exe
+C:\Users\Sohail Toseef\Desktop\C#\FileReadWrite\bin\Debug\net7.0\FileReadWrite.deps.json
+C:\Users\Sohail Toseef\Desktop\C#\FileReadWrite\bin\Debug\net7.0\FileReadWrite.runtimeconfig.json
+C:\Users\Sohail Toseef\Desktop\C#\FileReadWrite\bin\Debug\net7.0\FileReadWrite.dll
+C:\Users\Sohail Toseef\Desktop\C#\FileReadWrite\bin\Debug\net7.0\FileReadWrite.pdb
+C:\Users\Sohail Toseef\Desktop\C#\FileReadWrite\obj\Debug\net7.0\FileReadWrite.csproj.AssemblyReference.cache
+C:\Users\Sohail Toseef\Desktop\C#\FileReadWrite\obj\Debug\net7.0\FileReadWrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sohail Toseef\Desktop\C#\FileReadWrite\obj\Debug\net7.0\FileReadWrite.AssemblyInfoInputs.cache
+C:\Users\Sohail Toseef\Desktop\C#\FileReadWrite\obj\Debug\net7.0\FileReadWrite.AssemblyInfo.cs
+C:\Users\Sohail Toseef\Desktop\C#\FileReadWrite\obj\Debug\net7.0\FileReadWrite.csproj.CoreCompileInputs.cache
+C:\Users\Sohail Toseef\Desktop\C#\FileReadWrite\obj\Debug\net7.0\FileReadWrite.dll
+C:\Users\Sohail Toseef\Desktop\C#\FileReadWrite\obj\Debug\net7.0\refint\FileReadWrite.dll
+C:\Users\Sohail Toseef\Desktop\C#\FileReadWrite\obj\Debug\net7.0\FileReadWrite.pdb
+C:\Users\Sohail Toseef\Desktop\C#\FileReadWrite\obj\Debug\net7.0\FileReadWrite.genruntimeconfig.cache
+C:\Users\Sohail Toseef\Desktop\C#\FileReadWrite\obj\Debug\net7.0\ref\FileReadWrite.dll
